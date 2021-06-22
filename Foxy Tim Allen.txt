@@ -1,4 +1,15 @@
-This resource pack is to be used with Minecraft: Java Edition for versions 1.17+ (support for older versions will be made if there is demand).
+                                                           FOXY TIM ALLEN
 ========================================================================================================================================
-  -This pack replaces all of game's fox sounds to Tim Allen soundbites and grunts from the sitcom 'Home Improvement.' 
-  -This pack also adds a new splash screen text
+This resource pack is to be used with Minecraft: Java Edition for versions 1.17+ (support for older versions will be made if necessary).
+========================================================================================================================================
+   -This pack replaces all of game's fox sounds to Tim Allen soundbites and grunts from the sitcom 'Home Improvement.' 
+   -This pack also adds a new splash screen text
+
+
+
+
+
+========================================================================================================================================
+                                                          Misc. Information
+========================================================================================================================================
+If your game is currently running other texture/resource packs that change blockstates or other visual information, you may want to have this one placed lower down in your load order, so everything can work as expected. To change load order, under the 'Resource Packs...' page of Minecraft, in the 'Selected' column, hover over the pack thumbnails and use the arrows to arrange your packs as desired.
